@@ -1,7 +1,7 @@
 <h1> Project Outline: </h1>
 <p>
 	StreetSniper is a street guessing game akin to GeoGuessr, though more targeted to the loyal residents of major metropolitan regions. <br>
-	Users are placed in a random street in their city, and using a perpetually varying point system, are rewarded with a proportional score.
+Users are placed in a random street in their city, and using a perpetually varying point system, are rewarded with a proportional score.
 </p>
 
 
