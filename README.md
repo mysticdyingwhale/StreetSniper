@@ -1,5 +1,3 @@
-#StreetSniper
-
 <h1> Project Outline: </h1>
 <p>
 	StreetSniper is a street guessing game akin to GeoGuessr, though more targeted to the loyal residents of major metropolitan regions. <br>
